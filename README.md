@@ -6,4 +6,4 @@
 
 Descrição: Aplicação web acadêmica desenvolvida com Django para consulta de serviços de uma barbearia.
 
-Autor: (Álvaro Yuri)[https://github.com/alvarogit-ops]
+Autor: [Álvaro Yuri](https://github.com/alvarogit-ops)
